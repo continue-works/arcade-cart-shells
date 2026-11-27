@@ -1,0 +1,12 @@
+{
+  "slug": "cart-shells",
+  "cart_id": "org.continue.cart-shells",
+  "old_version": "0.2.1",
+  "version": "0.2.2",
+  "artifact": "/Volumes/GM9000/Continue/releases/cart-shells/0.2.2/continue-cart-shells-0.2.2.cart",
+  "sha256": "43f3a2d1be35a01bb9f1c96c9bf7c039812187dff14086db9917083b80af4453",
+  "bytes": 10288656,
+  "repo": "continue-works/arcade-cart-shells",
+  "tag": "v0.2.2",
+  "source": "/Volumes/GM9000/Continue/work/2026-11-28/cart-document-release/shells-source"
+}

@@ -1,0 +1,14 @@
+Continue Official Cart Shells License (LicenseRef-Continue-Cart-Shells)
+
+All 13 cartridge shell models (CONTINUE-CART-001 through CONTINUE-CART-013)
+and associated shell configuration metadata inside `org.continue.cart-shells`
+are original assets created for Continue Arcade.
+
+Permitted use:
+- Bundling with Continue applications and official Continue Cart Station distributions.
+- Runtime rendering and custom label/color projection within Continue Arcade
+  and Continue authoring workflows.
+
+All other rights reserved unless explicitly granted in writing by Continue.
+
+Third-party logos and illustrations retain their original ownership and license terms.
